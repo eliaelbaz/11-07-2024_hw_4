@@ -1,4 +1,4 @@
-# קלט ערכי IQ של קבוצת הביקורת לפני הלימודים
+## start
 print ("Enter IQ values for the control group before training (values must be between 30 and 300):");
 sum_iq_before = 0;
 count_iq_before = 0;
